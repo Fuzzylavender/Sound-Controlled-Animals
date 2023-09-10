@@ -1,0 +1,18 @@
+body {
+    background-color: pink;
+    color:white;
+}
+
+.heading {
+    background-color: whitesmoke;
+    font-size: larger;
+}
+
+#result_object_name, #result_object_accuracy {
+    background-color: darkblue;
+}
+
+.name_of_objects {
+    background-color: darkcyan;
+}
+
